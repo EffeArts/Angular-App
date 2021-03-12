@@ -1,0 +1,18 @@
+.btn-card {
+    position: relative;
+}
+
+.btn-card {
+    width: 50px;
+    position: relative;
+    right: 0;
+    bottom: 0;
+}
+
+#button {
+    bottom: 0;
+}
+
+.profile .form-row .col .form-group label {
+    margin-bottom: 20px !important;
+}
